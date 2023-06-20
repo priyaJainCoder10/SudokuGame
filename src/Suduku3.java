@@ -1,0 +1,2 @@
+public class Suduku3 {
+}
